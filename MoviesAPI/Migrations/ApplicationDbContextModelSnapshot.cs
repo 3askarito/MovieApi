@@ -29,6 +29,9 @@ namespace MoviesAPI.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<byte>("Id"));
 
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasMaxLength(100)
@@ -49,6 +52,9 @@ namespace MoviesAPI.Migrations
 
                     b.Property<byte>("GenreId")
                         .HasColumnType("tinyint");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
 
                     b.Property<byte[]>("Poster")
                         .IsRequired()

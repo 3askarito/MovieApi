@@ -259,3 +259,4 @@ C:\Users\BioTech\OneDrive\Desktop\ASP.Net Core\MoviesAPI\MoviesAPI\bin\Debug\net
 C:\Users\BioTech\OneDrive\Desktop\ASP.Net Core\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\BioTech\OneDrive\Desktop\ASP.Net Core\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\BioTech\OneDrive\Desktop\ASP.Net Core\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\BioTech\OneDrive\Desktop\ASP.Net Core\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.sourcelink.json
