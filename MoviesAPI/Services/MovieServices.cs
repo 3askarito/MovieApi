@@ -19,9 +19,9 @@ namespace MoviesAPI.Services
             return movie;
         }
 
-        public async Task<IEnumerable<Movie>> GetAll(byte genreId = 0)
+        public async Task<IEnumerable<Movie>> GetAll(int pageNumber  = 1, int pageSize = 10, byte genreId = 0)
         {
-            return await dbContext.Movies.Where(m=> m.GenreId == genreId || genreId == 0).OrderByDescending(m => m.Rate).Include(m => m.Genre).ToListAsync();
+            return await dbContext.Movies.Where(m=> m.GenreId == genreId || genreId == 0).OrderByDescending(m => m.Rate).Skip((pageNumber - 1) * pageSize).Take(pageSize).Include(m => m.Genre).ToListAsync();
         }
 
         public async Task<Movie> GetById(int id)

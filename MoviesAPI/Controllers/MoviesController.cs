@@ -12,9 +12,9 @@ namespace MoviesAPI.Controllers
         private new List<string> allowedExtensions = new List<string>() { ".jpg", ".png", ".jpeg"};
         private int allowedMaxFileSize = 1048576;
         [HttpGet]
-        public async Task<IActionResult> GetAllAsync()
+        public async Task<IActionResult> GetAllAsync(int pageNumber = 1, int pageSize = 10)
         {
-            var movie = await movieServices.GetAll();
+            var movie = await movieServices.GetAll(pageNumber, pageSize);
             var data = mapper.Map<IEnumerable<Movie>>(movie);
             return Ok(data);
         }

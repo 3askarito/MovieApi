@@ -3,62 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\model\\applicationuserdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\model\\applicationuserdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\services\\movieservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\services\\movieservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Movies/True/SqlTable/dbo.Movies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\services\\imovieservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\services\\imovieservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Movies/True/SqlTable/dbo.Movies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Movies/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\data\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\data\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\intefaces\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\intefaces\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\services\\genreservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\services\\genreservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\biotech\\onedrive\\desktop\\asp.net core\\moviesapi\\moviesapi\\services\\movieservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F783102-ECCE-4B55-B023-B2CFE5A09C67}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\services\\movieservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,156 +25,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthServices.cs",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Services\\AuthServices.cs",
-              "RelativeDocumentMoniker": "MoviesAPI\\Services\\AuthServices.cs",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Services\\AuthServices.cs",
-              "RelativeToolTip": "MoviesAPI\\Services\\AuthServices.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T22:57:44.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAuthServices.cs",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Services\\IAuthServices.cs",
-              "RelativeDocumentMoniker": "MoviesAPI\\Services\\IAuthServices.cs",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Services\\IAuthServices.cs",
-              "RelativeToolTip": "MoviesAPI\\Services\\IAuthServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T22:56:44.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationUserDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Model\\ApplicationUserDbContext.cs",
-              "RelativeDocumentMoniker": "MoviesAPI\\Model\\ApplicationUserDbContext.cs",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Model\\ApplicationUserDbContext.cs",
-              "RelativeToolTip": "MoviesAPI\\Model\\ApplicationUserDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T22:53:09.26Z",
+              "DocumentIndex": 2,
+              "Title": "dbo.Movies [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Movies/True/SqlTable/dbo.Movies.sql",
+              "ToolTip": "dbo.Movies [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-14T20:34:09.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Data\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "MoviesAPI\\Data\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Data\\ApplicationUser.cs",
-              "RelativeToolTip": "MoviesAPI\\Data\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T22:52:01.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dbo.Movies [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Movies/True/SqlTable/dbo.Movies.sql",
-              "ToolTip": "dbo.Movies [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-13T22:24:57.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MovieServices.cs",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Services\\MovieServices.cs",
-              "RelativeDocumentMoniker": "MoviesAPI\\Services\\MovieServices.cs",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Services\\MovieServices.cs",
-              "RelativeToolTip": "MoviesAPI\\Services\\MovieServices.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T21:58:12.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "MoviesAPI\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "MoviesAPI\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T21:55:17.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Model\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "MoviesAPI\\Model\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Model\\ApplicationDbContext.cs",
-              "RelativeToolTip": "MoviesAPI\\Model\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T22:00:00.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "IMovieServices.cs",
               "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Services\\IMovieServices.cs",
               "RelativeDocumentMoniker": "MoviesAPI\\Services\\IMovieServices.cs",
               "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Services\\IMovieServices.cs",
               "RelativeToolTip": "MoviesAPI\\Services\\IMovieServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T22:20:14.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "MoviesAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "MoviesAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T22:26:32.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "dbo.AspNetUsers [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Movies/True/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "dbo.AspNetUsers [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-13T22:26:10.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ISoftDelete.cs",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Intefaces\\ISoftDelete.cs",
-              "RelativeDocumentMoniker": "MoviesAPI\\Intefaces\\ISoftDelete.cs",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Intefaces\\ISoftDelete.cs",
-              "RelativeToolTip": "MoviesAPI\\Intefaces\\ISoftDelete.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T22:07:49.217Z",
+              "WhenOpened": "2024-10-14T20:21:19.906Z",
               "EditorCaption": ""
             },
             {
@@ -230,41 +60,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GenreServices.cs",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Services\\GenreServices.cs",
-              "RelativeDocumentMoniker": "MoviesAPI\\Services\\GenreServices.cs",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Services\\GenreServices.cs",
-              "RelativeToolTip": "MoviesAPI\\Services\\GenreServices.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MovieServices.cs",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Services\\MovieServices.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Services\\MovieServices.cs",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Services\\MovieServices.cs",
+              "RelativeToolTip": "MoviesAPI\\Services\\MovieServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T21:58:29.873Z",
+              "WhenOpened": "2024-10-14T20:21:31.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Data\\Movie.cs",
-              "RelativeDocumentMoniker": "MoviesAPI\\Data\\Movie.cs",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Data\\Movie.cs",
-              "RelativeToolTip": "MoviesAPI\\Data\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MoviesAPI\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T21:53:35.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MovieDto.cs",
-              "DocumentMoniker": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Dtos\\MovieDto.cs",
-              "RelativeDocumentMoniker": "MoviesAPI\\Dtos\\MovieDto.cs",
-              "ToolTip": "C:\\Users\\BioTech\\OneDrive\\Desktop\\ASP.Net Core\\MoviesAPI\\MoviesAPI\\Dtos\\MovieDto.cs",
-              "RelativeToolTip": "MoviesAPI\\Dtos\\MovieDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T21:53:29.965Z",
+              "WhenOpened": "2024-10-14T20:20:59.488Z",
               "EditorCaption": ""
             }
           ]
