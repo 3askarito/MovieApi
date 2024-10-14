@@ -14,7 +14,8 @@ namespace MoviesAPI.Model
         public DbSet<Movie> Movies { get; set; }
 
         public override int SaveChanges()
-        {
+        { 
+            // using soft delete
             var softDeleteEntries = ChangeTracker.Entries<ISoftDelete>().Where(e => e.State == EntityState.Deleted);
             foreach(var entityEntr in softDeleteEntries)
             {
